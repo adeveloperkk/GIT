@@ -1,5 +1,3 @@
-# kk
-
 ## GitHub Project Setup
 
 Follow the steps below to initialize your repository and push your first commit.
